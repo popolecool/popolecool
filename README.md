@@ -1,12 +1,14 @@
 ### salut je suis paul 👋
 
-je code en html en css en javascript en python et en c++ 
+je code en html en css en python et en c++ (que pour l'Arduino j'an fait trés peux) 
 
 📂 draf (Paul)
 
 ◟📂 Responsable te l'atelier technologie  
 
-◟📂 Apprenti en HTML;CSS et python maitriser 
+◟📂 parle français anglais allemand en train d'apprendre le japonais  
+
+◟📂 maitriser en HTML, CSS et python  
 
 ◟📂 développer bot discord🧑‍💻
 
