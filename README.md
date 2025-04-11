@@ -1,16 +1,16 @@
 ### salut je suis paul 👋
 
-je code en html en css en python et en c++ (que pour l'Arduino j'an fait trés peux) 
+Je code en HTML, CSS, Python et C++ (uniquement pour l'Arduino, j'en fais très peu).
 
-📂 draf (Paul)
+📂 Draf (Paul)
 
-◟📂 Responsable te l'atelier technologie  
+◟📂 Responsable de l'atelier technologie
 
-◟📂 parle français anglais allemand en train d'apprendre le japonais  
+◟📂 Parle français, anglais, allemand ; en train d'apprendre le japonais
 
-◟📂 maitriser en HTML, CSS et python  
+◟📂 Maîtrise HTML, CSS et Python
 
-◟📂 développer bot discord🧑‍💻
+◟📂 Participe régulièrement à des CTF (une à deux fois par an)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=popolecool/popolecool&type=Timeline)](https://star-history.com/#popolecool/popolecool&Timeline)
 
